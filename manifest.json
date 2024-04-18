@@ -1,6 +1,6 @@
 {
-    "name": "bd",
-    "short_name": "bd",
+    "name": "uwifi",
+    "short_name": "uwifi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "dc5f444d240f1f745446620996f1f0a8",
+  "assets/AssetManifest.json": "a231a40a59ca3806853a1ecf992f7404",
 "assets/assets/audios/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/fonts/Bicyclette-Black.ttf": "935eb8c0593ebd0f6874cf46a21c36e1",
 "assets/assets/fonts/Bicyclette-Bold.ttf": "e9d0f53cb1b3802c9c5674488e4b6931",
@@ -52,11 +52,11 @@ const RESOURCES = {
 "assets/assets/images/LogoBlanco.png": "6366c6b7402730ae5c9278215e96b197",
 "assets/assets/images/LogoColor.png": "d9a7c726e7000dc2a60cd81efcefb66c",
 "assets/assets/images/TvAvatar.jpg": "f19aeee111a0d24bfca6dbf88f8a3b3b",
+"assets/assets/images/uwifi_full.png": "5ce24d94ea19a1dcf48c256b85a2fe24",
 "assets/assets/images/videoicon.png": "f452a058e028cada7e4d7a7c501b02d8",
 "assets/assets/lottie_animations/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/lottie_animations/success.json": "ec913b9be9ee9c09e36e1595b9c9137c",
 "assets/assets/pdfs/favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"assets/assets/pdfs/mentiras.pdf": "317b53ce5d812781d0095f793a0daef9",
 "assets/assets/rive_animations/candados.riv": "f156768ea8fe12d774e1e7cfbb3d5029",
 "assets/assets/rive_animations/cblunabg.riv": "0be766a8534f9a275fe3a6b1b1061581",
 "assets/assets/rive_animations/completado.riv": "563707b181a392127691dfb57f687611",
@@ -845,16 +845,16 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"favicon.png": "3a54dd7ab90241d979a113e974af2254",
+"favicon.png": "4831dd9d99760cbabf4c0f4bcb96e821",
 "flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
 "icons/Icon-192.png": "8e17c37109848bf69c839e12e8b39306",
 "icons/Icon-512.png": "0674cdedd02281347ac051899327bedf",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "837d246c872a9dc800e9036d0cc8bb9a",
-"/": "837d246c872a9dc800e9036d0cc8bb9a",
-"main.dart.js": "4cf0f99ba21299d4fd27d2f58d1df25b",
-"manifest.json": "f63a14237578041d7746fc64a9d29a20",
+"index.html": "77f09f85db606fe744ce92aca2246e7d",
+"/": "77f09f85db606fe744ce92aca2246e7d",
+"main.dart.js": "c3faf6bc40a9e76423d34b602108475e",
+"manifest.json": "1e236796cb70b61d65eadf862550dd0c",
 "version.json": "f41613f78ce45f3bb1a6e936c52b5d16"
 };
 
